@@ -1,0 +1,7 @@
+realizar un algoritmo que permita ingresar al usuario nombre del cliente, apellido del cliente, numero de dni, teléfono del cliente.
+una vez ingresado se demuestra al usuario una lista de productos mostrando ID, nombre del producto y precio unitario, pidiendo al usuario que seleccione
+un producto ingresando su ID, luego de seleccionado debe indicar la cantidad a comprar del producto, esta selección de productos y cantidad de productos
+debe realizarse hasta que el usuario escriba la palabra "salir" se le mostrara al usuario un resumen de su compra, con los siguientes datos:
+	datos del cliente.
+	nombre de producto, precio unitario, cantidad, subtotal.
+	total de la compra.
